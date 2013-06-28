@@ -15,8 +15,6 @@ var contentList;
 var tableMap = {};
 
 
-$(function()
-
 function addContentSummary( imgSrc, descriptionText ) {
     //Does contentTable exist yet?
     if(contentList === undefined) {
