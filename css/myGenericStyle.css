@@ -16,8 +16,8 @@
     text-align: center;
     float:left;
     width:120px;
-    background-image:url('apple.png');
-    background-color: #fcd131;
+    background-color: #ffff00;
+    /*background-image:url('../img/background_tab.png');*/
 }
 
 #tabs .tab:hover
