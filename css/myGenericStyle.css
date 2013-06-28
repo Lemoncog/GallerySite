@@ -11,13 +11,26 @@
     /*list-style-type: none;*/
 /*}*/
 
+#tabs
+{
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #tabs .tab
 {
     text-align: center;
     float:left;
-    width:120px;
+    width:200px;
     background-color: #ffff00;
     /*background-image:url('../img/background_tab.png');*/
+}
+
+#tabContentPad
+{
+    height: 20px;
 }
 
 #tabs .tab:hover

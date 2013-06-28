@@ -56,6 +56,10 @@ function addContentSummary( imgSrc, descriptionText ) {
     rows = 0;
 }
 
+function createColumnedTable() {
+
+}
+
 function buildContentSummaryElement( classType, imgSrc, contentSummary ) {
     var htmlImage = "<img src='" + imgSrc + "'>";
     var htmlDescription = "<p>" + contentSummary + "</p>";
